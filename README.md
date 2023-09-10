@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2022/11/aesthetic-gif-11.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/13/0b/d6/130bd6e30437a7b8cc3179bb08d82e56.gif">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/breyxmarie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aubrey-marie-quiatchon-447182287) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/breyxmarie) 
