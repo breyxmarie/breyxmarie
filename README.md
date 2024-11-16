@@ -4,7 +4,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aubrey-marie-quiatchon-447182287) 
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/breyxmarie) 
+<br/>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=miaageha&count=1)
 
 
